@@ -1,4 +1,0 @@
---餐厅大亨脚本1
-
-
-loadstring(game:HttpGet("https://pastebin.com/raw/ye2Qfa3e"))()
