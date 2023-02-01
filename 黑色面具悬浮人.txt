@@ -1,0 +1,4 @@
+--黑色面具悬浮人
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Tn2DfPcg"))()

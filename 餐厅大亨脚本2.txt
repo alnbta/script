@@ -1,0 +1,4 @@
+--餐厅大亨脚本2
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/uAZf15LR"))()

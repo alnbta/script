@@ -1,0 +1,4 @@
+--键盘
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Mj37LHCV"))()

@@ -1,0 +1,3 @@
+--临时传送
+
+loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
