@@ -1,4 +1,0 @@
---飞行脚本
-
-
-loadstring(game:HttpGet("https://pastebin.com/raw/NgK4PDVe"))()
