@@ -1,7 +1,7 @@
---黑色面具悬浮人
 
 
-loadstring(game:HttpGet("https://pastebin.com/raw/Tn2DfPcg"))()-----------//VEREUS\\-----------
+
+
 --[[Movelist
 Q = The reverse penance stare,
 E = Doom Pillars
